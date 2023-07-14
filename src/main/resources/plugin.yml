@@ -1,0 +1,10 @@
+# 最初に実行するファイルのパス
+# src\main\java\com\example\simpletapioponwebhook_plugin\Main.java
+main: com.example.simpletapioponwebhook_plugin.Main
+# プラグイン名
+name: SimpleTapioponWebhook
+# プラグインバージョン
+version: 0.0.1
+# 使用するAPIのバージョン
+# パッチバージョンは省略
+api-version: '1.19'

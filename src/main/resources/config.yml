@@ -1,0 +1,5 @@
+# Discord webhook URLを貼り付け
+webhook: 'https://example.com'
+
+# 送信するメッセージ
+message: 'Hello'
